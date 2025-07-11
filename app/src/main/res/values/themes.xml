@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme -->
+    <style name="Base.Theme.MyFeelings_21328" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Personaliza tu tema claro aquí -->
+        <item name="android:colorBackground">@color/white</item>
+        <item name="android:textColor">@color/colorPrimaryDark </item>
+        <!-- Puedes agregar otros colores como colorPrimary, etc. -->
+    </style>
+
+    <style name="Theme.MyFeelings_21328" parent="Base.Theme.MyFeelings_21328" />
+</resources>
